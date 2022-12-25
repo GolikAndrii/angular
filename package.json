@@ -1,0 +1,26 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "server": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GolikAndrii/angular.git"
+  },
+  "author": "Golik Andrii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GolikAndrii/angular/issues"
+  },
+  "homepage": "https://github.com/GolikAndrii/angular#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
